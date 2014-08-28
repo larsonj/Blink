@@ -1,0 +1,82 @@
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.PLC' ----   Wed Aug 27 22:07:26 2014
+
+D10   --> D119
+D11   --> D120
+D12   --> D121
+D13   --> D122
+D14   --> D123
+D15   --> D124
+D16   --> D125
+D17   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.SOL' ----   Wed Aug 27 22:07:26 2014
+
+D10   --> D127
+D11   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.STC' ----   Wed Aug 27 22:07:26 2014
+
+D10   --> D129
+D11   --> D130
+D12   --> D131
+D13   --> D132
+D14   --> D133
+D15   --> D134
+D16   --> D135
+D17   --> D136
+D18   --> D137
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.STS' ----   Wed Aug 27 22:07:26 2014
+
+D10   --> D138
+D11   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.PLC' ----   Wed Aug 27 22:09:27 2014
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.SOL' ----   Wed Aug 27 22:09:27 2014
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.STC' ----   Wed Aug 27 22:09:27 2014
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+D14   --> D114
+D15   --> D115
+D16   --> D116
+D17   --> D117
+D18   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\jcl\Documents\eagle\Blink Board\GERBERS\Blinky Board.STS' ----   Wed Aug 27 22:09:27 2014
+
+D10   --> D119
+D11   --> D120
+-----------------------------------------------------------------
